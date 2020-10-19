@@ -1,2 +1,2 @@
-# web_project_c
-belajar-pweb
+# web-project-c
+Repository for web project c
